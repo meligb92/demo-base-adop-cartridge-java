@@ -1,3 +1,3 @@
-https://innersource.accenture.com/scm/mdc/demo-base-spring-petclinic.git
-https://innersource.accenture.com/scm/mdc/demo-base-regression-tests.git
-https://innersource.accenture.com/scm/mdc/demo-base-environment-template.git
+https://github.com/Manuchas/demo-base-spring-petclinic.git
+https://github.com/Manuchas/demo-base-regression-tests.git
+https://github.com/Manuchas/demo-base-environment-template.git
