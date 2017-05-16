@@ -1,0 +1,3 @@
+ssh://jenkins@innersource.accenture.com/scm/mdc/demo-base-spring-petclinic.git
+ssh://jenkins@innersource.accenture.com/scm/mdc/demo-base-regression-tests.git
+ssh://jenkins@innersource.accenture.com/scm/mdc/demo-base-environment-template.git
