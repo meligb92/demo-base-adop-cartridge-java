@@ -220,7 +220,7 @@ deployJob.with {
             |done
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
-            |echo "Environment URL (replace PUBLIC_IP with your public ip address where you access jenkins from) : http://${SERVICE_NAME}.PUBLIC_IP.xip.io/petclinic"
+            |echo "Environment URL (replace PUBLIC_IP with your public ip address where you access jenkins from) : http://${SERVICE_NAME}.PUBLIC_IP.nip.io/petclinic"
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
             |set -x'''.stripMargin()
@@ -475,7 +475,7 @@ deployJobToProdA.with {
             |done
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
-            |echo "Environment URL (replace PUBLIC_IP with your public ip address where you access jenkins from) : http://${SERVICE_NAME}.PUBLIC_IP.xip.io/petclinic"
+            |echo "Environment URL (replace PUBLIC_IP with your public ip address where you access jenkins from) : http://${SERVICE_NAME}.PUBLIC_IP.nip.io/petclinic"
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
             |set -x'''.stripMargin())
@@ -532,7 +532,7 @@ deployJobToProdB.with {
             |done
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
-            |echo "Environment URL (replace PUBLIC_IP with your public ip address where you access jenkins from) : http://${SERVICE_NAME}.PUBLIC_IP.xip.io/petclinic"
+            |echo "Environment URL (replace PUBLIC_IP with your public ip address where you access jenkins from) : http://${SERVICE_NAME}.PUBLIC_IP.nip.io/petclinic"
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
             |set -x'''.stripMargin()
